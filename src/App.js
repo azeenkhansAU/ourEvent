@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to us
+          Welcome to our new repo
         </a>
       </header>
     </div>
